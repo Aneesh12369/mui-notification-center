@@ -1,0 +1,25 @@
+{
+  "title": "DescriptionAlerts Material Demo",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "name": "mui-notification-center",
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.4.4/docs/src/DescriptionAlerts.tsx",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "5.4.4",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-toastify": "9.0.0-POC",
+    "typescript": "latest"
+  },
+  "keywords": []
+}
