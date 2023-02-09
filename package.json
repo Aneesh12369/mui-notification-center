@@ -6,7 +6,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "name": "mui-notification-center-forked",
+  "name": "mui-notification-center",
   "main": "index.tsx",
   "devDependencies": {
     "react-scripts": "latest"
